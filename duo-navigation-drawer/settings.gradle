@@ -1,0 +1,2 @@
+include ':app', ':duo-navigation-drawer'
+//org.gradle.jvmargs=-Xmx4608m
